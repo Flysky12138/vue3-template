@@ -1,0 +1,12 @@
+{
+  "vue3 template init (用户代码片段)": {
+    "prefix": "tem",
+    "body": ["<script setup lang=\"ts\">", "", "</script>", "", "<template>", "  $0", "</template>", ""],
+    "description": "vue3 template init"
+  },
+  "vue3 template slot (用户代码片段)": {
+    "prefix": "tem",
+    "body": ["<template #$1>", "  $0", "</template>"],
+    "description": "vue3 template slot"
+  }
+}
