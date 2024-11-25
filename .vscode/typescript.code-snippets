@@ -1,0 +1,17 @@
+{
+  "vue3 defineEmits (用户代码片段)": {
+    "prefix": "de",
+    "body": "const emit = defineEmits<{\n  $1: [$2]\n}>()",
+    "description": "defineEmits"
+  },
+  "vue3 defineProps (用户代码片段)": {
+    "prefix": "dp",
+    "body": "const props = defineProps<{\n  $0\n}>()",
+    "description": "defineProps"
+  },
+  "vue3 defineModel (用户代码片段)": {
+    "prefix": "dm",
+    "body": "const model = defineModel<string>('modelValue', { default: '' })",
+    "description": "defineModel"
+  }
+}
